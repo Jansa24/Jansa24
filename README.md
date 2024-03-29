@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jansa24
+- 👋 Hi, I’m Jan Afza
 - 👀 I’m interested in data analytics and cloud computing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on different projects
